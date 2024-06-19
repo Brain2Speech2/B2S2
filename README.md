@@ -1,1 +1,1 @@
-# B2S2
+# Official code implementation for B2S2.
